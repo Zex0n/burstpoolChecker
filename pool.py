@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 url = 'http://pool.burstcoin.ro/pending2.json'
-id = '8559526382737413247'
+id = 'Numeric_Account_ID'
 
 import urllib.request
 import json
